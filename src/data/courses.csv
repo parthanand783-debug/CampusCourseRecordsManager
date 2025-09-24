@@ -1,0 +1,5 @@
+code,title,credits,instructor,semester,department,active
+CS101,Introduction to Programming,3,Dr. Smith,SPRING,Computer Science,true
+MATH201,Calculus I,4,Dr. Johnson,SPRING,Mathematics,true
+PHYS101,Physics I,4,Dr. Brown,SPRING,Physics,true
+ENG101,English Composition,3,Dr. Wilson,SPRING,English,true
